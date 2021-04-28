@@ -3,6 +3,17 @@
     <head>
       <link rel="preconnect" href="https://fonts.gstatic.com">
       <link href="https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&family=Freckle+Face&family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">
+      <style>
+      
+      headerstyle1 {
+      font-family: "Coda Caption";
+      }
+      
+      parastyle1 {
+      font-family: "freckle face family";
+      }
+      
+      </style>
     </head>
     <body>
         <h1 class="headerstyle1">Yup! Let's test the header!</h1>
